@@ -1,4 +1,4 @@
-# EliteScout Balkan: B2B Digital Scouting Platform
+# EliteScout Balkan: B2B Digital Scouting Platform (elitescoutingbalkan.free.nf)
 
 EliteScout Balkan is a professional digital ecosystem designed to modernize football recruitment in the Balkan region. It acts as a technology-driven bridge between regional talent pools and elite European football clubs, replacing traditional, subjective scouting methods with high-precision data and visual evidence.
 
